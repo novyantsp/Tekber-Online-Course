@@ -24,7 +24,7 @@ class HomeScreen extends StatelessWidget {
                 height: 50,
               ),
               Text(
-                'Hey Alex,',
+                'Hey Bafii,',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 30,
@@ -34,7 +34,7 @@ class HomeScreen extends StatelessWidget {
                 height: 10,
               ),
               Text(
-                'Find a course you want to learn',
+                'Selamat Datang di ITS Daring',
                 style: TextStyle(
                   fontSize: 24,
                   color: Color(0xff61688B),
@@ -52,7 +52,7 @@ class HomeScreen extends StatelessWidget {
                 padding: EdgeInsets.symmetric(vertical: 5, horizontal: 20),
                 child: TextField(
                   decoration: InputDecoration(
-                    hintText: 'Search for anything',
+                    hintText: 'Cari Course',
                     border: InputBorder.none,
                     icon: Icon(Icons.search),
                   ),
@@ -65,14 +65,14 @@ class HomeScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: <Widget>[
                   Text(
-                    'Categories',
+                    'Kategori',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 20,
                     ),
                   ),
                   Text(
-                    'See All',
+                    'Lihat Semua',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 20,

@@ -195,7 +195,7 @@ class DetailScreen extends StatelessWidget {
                       padding:
                           EdgeInsets.symmetric(vertical: 10, horizontal: 90),
                       child: Text(
-                        'Buy Now',
+                        'Enroll Sekarang',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 20,
